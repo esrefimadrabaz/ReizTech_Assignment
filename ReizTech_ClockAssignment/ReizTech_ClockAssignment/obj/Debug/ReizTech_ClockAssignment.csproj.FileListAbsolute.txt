@@ -1,0 +1,7 @@
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\bin\Debug\ReizTech_ClockAssignment.exe.config
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\bin\Debug\ReizTech_ClockAssignment.exe
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\bin\Debug\ReizTech_ClockAssignment.pdb
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\obj\Debug\ReizTech_ClockAssignment.csproj.AssemblyReference.cache
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\obj\Debug\ReizTech_ClockAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\obj\Debug\ReizTech_ClockAssignment.exe
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_ClockAssignment\ReizTech_ClockAssignment\obj\Debug\ReizTech_ClockAssignment.pdb

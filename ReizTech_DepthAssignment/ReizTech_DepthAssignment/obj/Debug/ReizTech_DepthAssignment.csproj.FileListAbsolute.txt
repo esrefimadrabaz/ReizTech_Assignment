@@ -1,0 +1,7 @@
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\obj\Debug\ReizTech_DepthAssignment.csproj.AssemblyReference.cache
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\obj\Debug\ReizTech_DepthAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\bin\Debug\ReizTech_DepthAssignment.exe.config
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\bin\Debug\ReizTech_DepthAssignment.exe
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\bin\Debug\ReizTech_DepthAssignment.pdb
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\obj\Debug\ReizTech_DepthAssignment.exe
+C:\Users\Oguz\Desktop\ReizTech_Assignment\ReizTech_DepthAssignment\ReizTech_DepthAssignment\obj\Debug\ReizTech_DepthAssignment.pdb
